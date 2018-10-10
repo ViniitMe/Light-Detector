@@ -41,7 +41,7 @@ For detecting whether the appliances are ON/OFF using OpenCV
 </style>
 <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
 <script src="http://d3js.org/d3.v3.min.js"></script>
-<script src="dndTree.js"></script>
+<script src="https://github.com/ViniitMe/Light-Detector/blob/master/dndTree.js"></script>
 <body>
     <div id="tree-container"></div>
 </body>
