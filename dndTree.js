@@ -1,4 +1,4 @@
-treeJSON = d3.json("flare.json", function(error, treeData) {
+treeJSON = d3.json("https://github.com/ViniitMe/Light-Detector/blob/master/flare.json", function(error, treeData) {
 
     // Calculate total nodes, max label length
     if (error) throw error;
