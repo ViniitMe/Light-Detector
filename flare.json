@@ -1,0 +1,128 @@
+{
+    "name": "Relief Fund",
+    "children": [{
+        "name": "Prime Minister",
+        "children": [{
+                "name": "Chief Minister",
+                "children": [{
+                    "name": "Zilla Parishad",
+                    "children": [{
+                        "name" : "Members elected by panchayat",
+                        "size" : 100
+                    },{
+                        "name" : "Gram Panchayat",
+                        "size" : 100
+                    },{
+                        "name" : "Panchayat Samithi"
+                    }]
+                    },{
+                    "name": "MLA",
+                    "children": [{
+                        "name" : "BDO",
+                        "size" : 100
+                    },{
+                        "name" : "Municipality",
+                        "size" : 100
+                    }]
+                }]
+            }, {
+                "name": "Governor",
+                "size": 3812
+            },{
+                "name": "Deputy CM",
+                "size":3812
+        }]
+
+
+    }, {
+        "name": "Home Minister",
+        "children": [{
+                "name": "Chief Minister",
+                "children": [{
+                    "name": "Zilla Parishad",
+                    "children": [{
+                        "name" : "Members elected by panchayat",
+                        "size" : 100
+                    },{
+                        "name" : "Gram Panchayat",
+                        "size" : 100
+                    },{
+                        "name" : "Panchayat Samithi"
+                    }]
+                    },{
+                    "name": "MLA",
+                    "children": [{
+                        "name" : "BDO",
+                        "size" : 100
+                    },{
+                        "name" : "Municipality",
+                        "size" : 100
+                    }]
+                }]
+            
+            }, {
+                "name": "Governor",
+                "size": 3812
+        }]
+    
+    
+   
+    }, {
+        "name": "Finance Minister",
+        "children":  [{
+                "name": "Chief Minister",
+                "children": [{
+                    "name": "Zilla Parishad",
+                    "children": [{
+                        "name" : "Panchayat Samithy",
+                        "size" : 100
+                    },{
+                        "name" : "Gram Panchayat",
+                        "size" : 100
+                    }]
+                },{
+                    "name": "MLA",
+                    "children": [{
+                        "name" : "BDO",
+                        "size" : 100
+                    },{
+                        "name" : "Municipality",
+                        "size" : 100
+                    }]
+                }]
+            }, {
+                "name": "Governor",
+                "size": 330
+            }, {
+                "name": "Deputy CM",
+                "size": 625
+        }]
+    
+    
+    }, {
+        "name": "MHRD",
+        "children": [{
+                "name": "Chief Minister",
+                "children": [{
+                    "name": "Zilla Parishad",
+                    "size": 4461
+                }, {
+                    "name": "MLA",
+                    "children": [{
+                        "name" : "BDO",
+                        "size" : 100
+                    },{
+                        "name" : "Municipality",
+                        "size" : 100
+                    }]
+                }, {
+                    "name": "Zilla Chairperson",
+                    "size": 3444
+                }]
+            
+            }, {
+                "name": "Governor",
+                "size": 2490
+        }]
+    }]
+}
